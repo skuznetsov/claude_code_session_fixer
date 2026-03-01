@@ -1,0 +1,8 @@
+name: claude_code_session_fixer
+version: 0.1.0
+
+targets:
+  session_fixer:
+    main: src/session_fixer.cr
+
+crystal: ">= 1.10.0"

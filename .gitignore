@@ -1,0 +1,4 @@
+.agents/
+*.tmp
+*.bak.jsonl
+*.bak.*.jsonl
